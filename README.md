@@ -1,1 +1,1 @@
-# Musitronic360-RESTAPI
+# Musictronic360-RESTAPI
